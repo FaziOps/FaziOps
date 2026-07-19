@@ -199,16 +199,6 @@ My goal is to become a **Full-Stack AI Engineer**, combining modern software eng
 
 > Database Systems • SQL • Backend Design
 
----
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaziOps&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaziOps&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -232,17 +222,7 @@ My goal is to become a **Full-Stack AI Engineer**, combining modern software eng
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FaziOps&theme=tokyonight&row=2&column=4&margin-w=18&margin-h=18&no-frame=true&no-bg=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
 
 
 <div align="center">
@@ -457,17 +437,6 @@ If you enjoy my projects,
 
 ---
 
-# 📅 2026 Goals
-
-- 🚀 Launch an AI SaaS product
-- 🤖 Build production-ready AI Agents
-- 📱 Publish Flutter apps
-- 🌍 Contribute to Open Source
-- ☁ Learn AWS & Docker
-- 🧠 Master System Design
-- 💼 Secure an AI/Software Engineering internship
-
----
 
 <div align="center">
 
