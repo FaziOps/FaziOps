@@ -1,144 +1,151 @@
-# Hi 👋 I'm Muhammad Faizan
 
-### Software Engineering Student • Flutter Developer • AI Engineer
 
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Flutter+Developer;AI+Engineer;Workflow+Automation+Engineer;Building+AI+Solutions" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=FaziOps&style=for-the-badge&color=10B981"/>`{=html}
-```{=html}
-</p>
-```
-# 🚀 About Me
+# ⚡ Quick Overview
 
-I'm a Software Engineering student at **FAST-NUCES** passionate about
-building AI-powered software, Flutter applications, backend systems, and
-workflow automation.
+<div align="center">
 
--   📍 Faisalabad, Pakistan
--   🎓 BS Software Engineering
--   📱 Flutter Developer
--   🤖 AI & Automation Engineer
--   🌱 Currently learning Agentic AI, System Design, Cloud Computing
--   📫 Email: faizanwaseem266@gmail.com
+| 💼 Role | 🎓 Education | 📍 Location |
+|:------:|:------------:|:-----------:|
+| Flutter Developer | FAST-NUCES | Faisalabad 🇵🇰 |
 
-# 💻 Tech Stack
+| 🤖 AI | 📱 Mobile | ⚙ Automation |
+|:------:|:---------:|:-----------:|
+| Agentic AI | Flutter | n8n |
 
-### Mobile
+</div>
 
-![Flutter](https://skillicons.dev/icons?i=flutter,dart,firebase)
+---
 
-### Languages
+# 📌 Featured Repositories
 
-![Languages](https://skillicons.dev/icons?i=python,cpp,java,js,html,css)
+<div align="center">
 
-### Databases
+<a href="https://github.com/FaziOps">
 
-![DB](https://skillicons.dev/icons?i=mysql,mongodb,firebase)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FaziOps&repo=Home-Service-App&theme=tokyonight&hide_border=true"/>
 
-### Tools
+</a>
 
-![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio,figma)
+<a href="https://github.com/FaziOps">
 
-### AI & Automation
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FaziOps&repo=Expense-Tracker&theme=tokyonight&hide_border=true"/>
 
--   OpenAI APIs
--   n8n
--   Botpress
--   REST APIs
+</a>
 
-# 🚀 Featured Projects
+<a href="https://github.com/FaziOps">
 
-## 🤖 AI Email Agent
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FaziOps&repo=Favorite-Places&theme=tokyonight&hide_border=true"/>
 
-Automates customer inquiries, order processing and professional email
-responses.
+</a>
 
-## ⚡ AI Workflow Automation
+<a href="https://github.com/FaziOps">
 
-Business workflow automation with API integrations and AI agents.
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FaziOps&repo=Shopping-List&theme=tokyonight&hide_border=true"/>
 
-## 📱 Flutter Applications
+</a>
 
-Cross-platform mobile apps with Firebase, authentication and modern UI.
+</div>
 
-## 🛒 Inventory AI Assistant
+> **⚠️ Important:** Replace `Home-Service-App`, `Expense-Tracker`, etc. with the exact names of your GitHub repositories.
 
-AI assistant for inventory and e-commerce workflows.
-
-## ☕ Coffee Shop Database
-
-SQL database project with schema design and queries.
-
-# 📊 GitHub Stats
-
-```{=html}
-<p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=FaziOps&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaziOps&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-# 🔥 GitHub Streak
-
-```{=html}
-<p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=FaziOps&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-# 📈 Contribution Graph
-
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=FaziOps&theme=tokyo-night&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-# 🏆 Achievements
-
--   🏅 Build with AI Hackathon Participant
--   📱 Developed multiple Flutter apps
--   🤖 Building AI automation solutions
--   🚀 Exploring Agentic AI
+---
 
 # 🎯 Current Focus
 
--   AI Agents
--   Workflow Automation
--   Flutter Development
--   Backend APIs
--   Firebase
--   SaaS Products
-
-# 🌐 Connect With Me
-
-```{=html}
-<p align="center">
-```
-`<a href="https://github.com/FaziOps">`{=html}GitHub`</a>`{=html} •
-`<a href="https://www.linkedin.com/in/faizan-waseem-349710328/">`{=html}LinkedIn`</a>`{=html}
-• `<a href="mailto:faizanwaseem266@gmail.com">`{=html}Email`</a>`{=html}
-```{=html}
-</p>
+```text
+🤖 AI Agents
+⚡ Workflow Automation
+📱 Flutter Development
+🔥 Firebase
+☁ Cloud Computing
+🐍 Python Backend
+🚀 Full Stack Development
 ```
 
-------------------------------------------------------------------------
+---
 
-```{=html}
-<p align="center">
+# 🧠 What I'm Working On
+
+✔ AI Chatbots
+
+✔ Agentic AI Systems
+
+✔ Flutter Applications
+
+✔ Backend APIs
+
+✔ Automation using n8n
+
+✔ Firebase Projects
+
+✔ Software Engineering Projects
+
+---
+
+# 📈 Weekly Development Breakdown
+
+```text
+
+Flutter         ████████████░░░░   45%
+
+Python          ████████░░░░░░░░   25%
+
+AI              ██████░░░░░░░░░░   15%
+
+SQL             ████░░░░░░░░░░░░   10%
+
+Learning        ██░░░░░░░░░░░░░░    5%
+
 ```
-⭐ If you like my projects, consider giving them a star!
-```{=html}
-</p>
-```
+
+---
+
+# 🎓 Certifications & Learning
+
+🏅 Build with AI Hackathon
+
+📚 Software Engineering
+
+🤖 Agentic AI
+
+📱 Flutter
+
+⚡ Firebase
+
+☁ Cloud Computing
+
+---
+
+# ❤️ Support My Work
+
+If you enjoy my projects,
+
+⭐ Star my repositories
+
+🍴 Fork them
+
+🤝 Connect with me on LinkedIn
+
+💡 Share ideas
+
+---
+
+# 📅 2026 Goals
+
+- 🚀 Launch an AI SaaS product
+- 🤖 Build production-ready AI Agents
+- 📱 Publish Flutter apps
+- 🌍 Contribute to Open Source
+- ☁ Learn AWS & Docker
+- 🧠 Master System Design
+- 💼 Secure an AI/Software Engineering internship
+
+---
+
+<div align="center">
+
+## 💚 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:00C9A7&height=120&section=footer"/>
+
+</div>
