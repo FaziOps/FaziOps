@@ -371,7 +371,8 @@ srcset="./assets/dark.svg">
 <source media="(prefers-color-scheme: light)"
 srcset="./assets/light.svg">
 
-<img src="./assets/dark.svg" width="100%" alt="Muhammad Faizan Hero Banner"/>
+<img src="<img width="4284" height="5712" alt="IMG_8265" src="https://github.com/user-attachments/assets/21b83c41-1254-4480-b262-48b36db08a02" />
+./assets/dark.svg" width="100%" alt="Muhammad Faizan Hero Banner"/>
 
 </picture>
 
