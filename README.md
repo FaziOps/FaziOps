@@ -1,234 +1,90 @@
-# Hi there 👋, I'm Muhammad Faizan
+# Hi 👋 I'm Muhammad Faizan
 
-<div align="center">
-
-### Software Engineering Student • Flutter Developer • AI Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Flutter+Developer;Mobile+App+Engineer;Workflow+Automation+Enthusiast;AI+Solutions+Developer;AI+Chatbot+Developer;Agentic+AI+Engineer" alt="Typing SVG"/>
-
-</div>
-
----
-
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Flutter+Developer;Mobile+App+Engineer;Workflow+Automation+Enthusiast;AI+Solutions+Engineer;AI+Chatbot+Developer;Agentic+AI+Engineer"/>`{=html}
+```{=html}
+</p>
+```
 ## 🚀 About Me
 
-```yaml
-Name: Muhammad Faizan
-Location: Faisalabad, Pakistan 🇵🇰
-Education: BS Software Engineering
-University: FAST-NUCES
-Current Focus:
-  - AI Automation
-  - Mobile App Development
-  - Flutter
-  - Agentic AI
-  - Workflow Automation
-```
+-   🎓 BS Software Engineering --- FAST-NUCES
+-   📍 Faisalabad, Pakistan
+-   📱 Flutter Developer
+-   🤖 AI Automation & Agentic AI
+-   💻 Building Mobile & Full Stack Apps
+-   📧 faizanwaseem266@gmail.com
 
----
-
-## 💫 About Me
-
-- 🎓 Software Engineering Student
-- 📱 Flutter Mobile Developer
-- 🤖 AI & Automation Enthusiast
-- 🧠 Learning Agentic AI Systems
-- ⚡ Building Workflow Automation using n8n
-- 💻 Passionate about solving real-world problems through technology
-- 🌱 Always learning new technologies
-
----
-
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Mobile
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
-</p>
+![Flutter](https://skillicons.dev/icons?i=flutter,dart,firebase)
 
 ### Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,html,css"/>
-</p>
+![Programming](https://skillicons.dev/icons?i=python,cpp,cs,java,js,html,css)
 
-### Database
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+### Databases
+
+![DB](https://skillicons.dev/icons?i=firebase,mongodb,mysql) ![Oracle
+DB](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,figma"/>
-</p>
+![Tools](https://skillicons.dev/icons?i=git,github,linux,figma,vscode,androidstudio)
 
-### Other Skills
+![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge)
+![Botpress](https://img.shields.io/badge/Botpress-black?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge)
+![UML](https://img.shields.io/badge/UML-5C2D91?style=for-the-badge)
 
-- n8n
-- SQL
-- Jira
-- UML
-- Operating Systems
-- Software Engineering
+## ⭐ Featured Projects
 
----
+-   🏠 Home Service App (Flutter + Firebase)
+-   💰 Expense Tracker
+-   🛒 Shopping List
+-   📍 Favorite Places
+-   🤖 AI Chatbots & Workflow Automation
 
-# 🚀 Featured Projects
+## 📊 GitHub Stats
 
-## 🏠 Home Service App
+![](https://github-readme-stats.vercel.app/api?username=FaziOps&show_icons=true&theme=tokyonight&hide_border=true)
 
-✔ Flutter
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaziOps&layout=compact&theme=tokyonight&hide_border=true)
 
-✔ Firebase Authentication
+![](https://github-readme-streak-stats.herokuapp.com?user=FaziOps&theme=tokyonight&hide_border=true)
 
-✔ Firestore Database
+## 🏆 GitHub Trophies
 
-✔ Admin Panel
+![](https://github-profile-trophy.vercel.app/?username=FaziOps&theme=tokyonight&row=2&column=4&no-frame=true)
 
-✔ Live Services
+## 📈 Contribution Graph
 
----
+![](https://github-readme-activity-graph.vercel.app/graph?username=FaziOps&theme=tokyo-night&hide_border=true)
 
-## 💰 Expense Tracker
+## 🐍 Contribution Snake
 
-✔ Beautiful UI
+> Enable the Platane/snk GitHub Action, then use:
 
-✔ Charts
+``` md
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaziOps/FaziOps/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/FaziOps/FaziOps/output/github-contribution-grid-snake.svg">
+</picture>
+```
 
-✔ Dark Mode
+## 🌐 Connect
 
-✔ Responsive Design
+-   GitHub: https://github.com/FaziOps
+-   LinkedIn: YOUR_LINKEDIN
+-   Portfolio: YOUR_PORTFOLIO
+-   Email: faizanwaseem266@gmail.com
 
----
-
-## 🛍 Shopping List App
-
-✔ Firebase Backend
-
-✔ CRUD Operations
-
----
-
-## 📍 Favorite Places App
-
-✔ Google Maps
-
-✔ Location Services
-
-✔ Image Picker
-
-✔ Local Storage
-
----
-
-## 🤖 AI Projects
-
-- AI Chatbots
-- Workflow Automation
-- Agentic AI
-- AI Solutions
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&no-frame=true)
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="https://www.shutterstock.com/g/YOUR_PROFILE">
-<img src="https://img.shields.io/badge/Shutterstock-E00034?style=for-the-badge&logo=shutterstock&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge"/>
-</a>
-
-<a href="mailto:faizanwaseem266@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Current Goals
-
-- 🚀 Become a Full Stack AI Engineer
-- 🤖 Build Production AI Agents
-- 📱 Master Flutter Development
-- ⚙ Learn Cloud & DevOps
-- 💼 Contribute to Open Source
-
----
-
-<div align="center">
-
-## 💙 Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=22D3EE&style=for-the-badge"/>
-
-### ⭐ If you like my work, don't forget to star my repositories!
-
-</div>  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Shutterstock-E52024?style=for-the-badge&logo=Shutterstock&logoColor=white" alt="Shutterstock" />
-  </a>
-</div>
-
----
-<div align="center">
-  <i>"Automating the future, one line of code at a time."</i>
-</div>
+![](https://komarev.com/ghpvc/?username=FaziOps&style=for-the-badge&color=0e75b6)
