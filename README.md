@@ -244,7 +244,6 @@ My goal is to become a **Full-Stack AI Engineer**, combining modern software eng
 
 # 🐍 Contribution Snake
 
-> **⚠️ This section will work after you add the GitHub Action (`snake.yml`) in Part 4.**
 
 <div align="center">
 
@@ -357,25 +356,6 @@ src="https://raw.githubusercontent.com/FaziOps/FaziOps/output/github-contributio
 </div>
 ---
 
-# 🌊 Hero Banner
-
-> Replace this with your custom animated SVG once it's ready.
-
-<p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="./assets/dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="./assets/light.svg">
-
-<img src="./assets/dark.svg" width="100%" alt="Muhammad Faizan Hero Banner"/>
-
-</picture>
-
-</p>
 
 ---
 
@@ -394,38 +374,6 @@ srcset="./assets/light.svg">
 </div>
 
 ---
-
-# 📌 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/FaziOps">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FaziOps&repo=Home-Service-App&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/FaziOps">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FaziOps&repo=Expense-Tracker&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/FaziOps">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FaziOps&repo=Favorite-Places&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/FaziOps">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FaziOps&repo=Shopping-List&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</div>
-
-> **⚠️ Important:** Replace `Home-Service-App`, `Expense-Tracker`, etc. with the exact names of your GitHub repositories.
 
 ---
 
