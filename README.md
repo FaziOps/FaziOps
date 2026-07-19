@@ -52,16 +52,6 @@ My goal is to become a **Full-Stack AI Engineer**, combining modern software eng
 
 ---
 
-## 🌱 Currently Learning
-
-- 🤖 Agentic AI
-- ⚡ AI Workflow Automation
-- ☁ Cloud Computing
-- 📱 Advanced Flutter
-- 🐍 Python Backend Development
-- 🚀 System Design
-
----
 
 # ⚡ Current Goals
 
@@ -354,20 +344,6 @@ src="https://raw.githubusercontent.com/FaziOps/FaziOps/output/github-contributio
 </div>
 
 ---
-
----
-
-# 🎯 Current Focus
-
-```text
-🤖 AI Agents
-⚡ Workflow Automation
-📱 Flutter Development
-🔥 Firebase
-☁ Cloud Computing
-🐍 Python Backend
-🚀 Full Stack Development
-```
 
 ---
 
