@@ -42,17 +42,6 @@ Current Focus:
 
 ---
 
-## 💫 A Little About Me
-
-I'm a Software Engineering student at **FAST-NUCES** with a passion for building intelligent software solutions.
-
-I enjoy creating **Flutter applications**, designing **AI-powered systems**, and automating workflows using modern tools like **n8n**, **Botpress**, and **OpenAI APIs**.
-
-My goal is to become a **Full-Stack AI Engineer**, combining modern software engineering with intelligent automation to solve real-world problems.
-
----
-
-
 # ⚡ Current Goals
 
 - Build production-ready AI Agents
