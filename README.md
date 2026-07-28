@@ -155,13 +155,11 @@ Current Focus:
 > Flutter • Google Maps • Image Picker • Location Services
 
 ---
-
 ### 🤖 AI Chatbot
 
 > Python • OpenAI • NLP • Automation
 
 ---
-
 ### ⚙ Workflow Automation
 
 > n8n • AI Agents • API Integrations • Botpress
