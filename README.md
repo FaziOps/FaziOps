@@ -282,8 +282,8 @@ src="https://raw.githubusercontent.com/FaziOps/FaziOps/output/github-contributio
 <img src="https://img.shields.io/badge/Shutterstock-E00034?style=for-the-badge&logo=shutterstock&logoColor=white"/>
 </a>
 
-<a href="https://portfolio.example.com">
-<img src="[![Portfolio](https://img.shields.io/badge/My_Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://faizanwaseem-portfolio.vercel.app/)"/>
+<a href="https://faizanwaseem-portfolio.vercel.app/">
+<img src="[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-E00034?style=for-the-badge&logo=vercel&logoColor=white)]"/>
 </a>
 
 <a href="mailto:faizanwaseem266@gmail.com">
