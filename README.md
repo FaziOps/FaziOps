@@ -283,7 +283,7 @@ src="https://raw.githubusercontent.com/FaziOps/FaziOps/output/github-contributio
 </a>
 
 <a href="https://portfolio.example.com">
-<img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge"/>
+<img src="https://faizanwaseem-portfolio.vercel.app/"/>
 </a>
 
 <a href="mailto:faizanwaseem266@gmail.com">
