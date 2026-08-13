@@ -132,6 +132,11 @@ Current Focus:
 
 # 🚀 Featured Projects
 
+### 🎓 Ezitech Learning Portal App
+
+> Flutter • Enterprise Architecture • Course & Task Management • Clean Architecture • Progress Tracking
+
+---
 ### 🏠 Home Service App
 
 > Flutter • Firebase • Firestore • Authentication • Admin Panel
