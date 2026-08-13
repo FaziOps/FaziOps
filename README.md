@@ -132,7 +132,11 @@ Current Focus:
 
 # 🚀 Featured Projects
 
+### 📰 Daily Glass News App
 
+> Flutter • REST API • Glassmorphism UI • News API • Audio & Bookmarks
+
+---
 ### 🎓 Ezitech Learning Portal App
 
 > Flutter • Enterprise Architecture • Course & Task Management • Clean Architecture • Progress Tracking
