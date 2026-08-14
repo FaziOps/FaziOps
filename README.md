@@ -346,24 +346,6 @@ src="https://raw.githubusercontent.com/FaziOps/FaziOps/output/github-contributio
 
 ---
 
-# 🧠 What I'm Working On
-
-✔ AI Chatbots
-
-✔ Agentic AI Systems
-
-✔ Flutter Applications
-
-✔ Backend APIs
-
-✔ Automation using n8n
-
-✔ Firebase Projects
-
-✔ Software Engineering Projects
-
----
-
 # 📈 Weekly Development Breakdown
 
 ```text
