@@ -310,7 +310,7 @@ src="https://raw.githubusercontent.com/FaziOps/FaziOps/output/github-contributio
 
 > **"The best way to predict the future is to build it."**
 
----
+
 
 <div align="center">
 
@@ -323,7 +323,7 @@ src="https://raw.githubusercontent.com/FaziOps/FaziOps/output/github-contributio
 <img src="https://img.shields.io/github/stars/FaziOps?style=for-the-badge&logo=github"/>
 
 </div>
----
+
 
 
 ---
@@ -341,8 +341,6 @@ src="https://raw.githubusercontent.com/FaziOps/FaziOps/output/github-contributio
 | Agentic AI | Flutter | n8n |
 
 </div>
-
----
 
 ---
 
