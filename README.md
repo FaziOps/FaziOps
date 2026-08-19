@@ -132,6 +132,11 @@ Current Focus:
 
 # 🚀 Featured Projects
 
+### 🍔 Restaurant App
+
+> Flutter • Clean Architecture • Bloc • Stripe • Firebase & Firestore • Cloud Messaging
+
+---
 ### 📰 Daily Glass News App
 
 > Flutter • REST API • Glassmorphism UI • News API • Audio & Bookmarks
