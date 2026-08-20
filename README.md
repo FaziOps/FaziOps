@@ -132,7 +132,7 @@ Current Focus:
 
 # 🚀 Featured Projects
 
-### 🍔 Restaurant App
+### 🍔 FoodieGo Restaurant App
 
 > Flutter • Clean Architecture • Bloc • Stripe • Firebase & Firestore • Cloud Messaging
 
