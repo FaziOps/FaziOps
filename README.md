@@ -198,9 +198,7 @@ Current Focus:
 
 # 🔥 GitHub Streak
 
-<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=FaziOps&theme=tokyonight&hide_border=true"/>
 
 
 
