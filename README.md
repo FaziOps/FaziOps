@@ -229,7 +229,7 @@ src="https://raw.githubusercontent.com/FaziOps/FaziOps/output/github-contributio
 
 ---
 
-# 🏅 Achievements
+# 🏅 Achievements & Certifications
 
 🏆 Build with AI Hackathon Participant
 
