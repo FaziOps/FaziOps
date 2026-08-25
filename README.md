@@ -42,15 +42,6 @@ Current Focus:
 
 ---
 
-# ⚡ Current Goals
-
-- Build production-ready AI Agents
-- Master Flutter & Firebase
-- Learn scalable backend architecture
-- Contribute to Open Source
-- Build SaaS products powered by AI
-
----
 
 # 💻 Tech Stack
 
