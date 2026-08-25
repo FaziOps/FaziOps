@@ -358,22 +358,6 @@ Learning        ██░░░░░░░░░░░░░░    5%
 
 ---
 
-# 🎓 Certifications & Learning
-
-🏅 Build with AI Hackathon
-
-📚 Software Engineering
-
-🤖 Agentic AI
-
-📱 Flutter
-
-⚡ Firebase
-
-☁ Cloud Computing
-
----
-
 # ❤️ Support My Work
 
 If you enjoy my projects,
