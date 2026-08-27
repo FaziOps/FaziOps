@@ -38,6 +38,7 @@ Current Focus:
   - Agentic AI
   - Flutter Development
   - Backend Development
+  - App Development
 ```
 
 ---
