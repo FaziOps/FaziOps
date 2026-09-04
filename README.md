@@ -136,7 +136,7 @@ Current Focus:
 
 ---
 
-### 🎓 Ezitech Learning Portal App
+### 🎓 Ezitech Learning & Internship Portal App
 
 > Flutter • Enterprise Architecture • Course & Task Management • Clean Architecture • Progress Tracking
 
