@@ -190,6 +190,7 @@ Current Focus:
 ---
 
 
+
 # 📈 Contribution Graph
 
 <div align="center">
@@ -199,8 +200,6 @@ Current Focus:
 </div>
 
 ---
-
-
 
 
 <div align="center">
