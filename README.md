@@ -126,6 +126,9 @@ Current Focus:
 # 🚀 Featured Projects
 
 
+### 🧠 SplitMind: Dual-Pane AI Research Environment
+
+> Flutter • Clean Architecture • BLoC • Node.js • LLM Proxy • SQLite Persistence • PDF Parsing
 ### 🍔 FoodieGo Restaurant App
 
 > Flutter • Clean Architecture • Bloc • Stripe • Firebase & Firestore • Cloud Messaging
