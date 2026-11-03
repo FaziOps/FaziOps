@@ -124,6 +124,11 @@ Current Focus:
 
 # 🚀 Featured Projects
 
+### 🧵 Fabric Inspector: AI Fabric Defect Detection
+
+> Python • FastAPI • Gemma 4 • Ollama • SQLite • Render
+
+---
 
 ### 🧾 Keepr: AI Receipt & Warranty Vault
 
