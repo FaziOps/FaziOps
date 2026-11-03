@@ -125,6 +125,13 @@ Current Focus:
 # 🚀 Featured Projects
 
 
+### 🧾 Keepr: AI Receipt & Warranty Vault
+
+> Flutter • Clean Architecture • Riverpod • Supabase • ML Kit • Claude AI
+
+A cross-platform app that reads receipts with AI, tracks return windows and warranty end dates, and makes a claim-ready PDF in one tap. It works offline and syncs to the cloud.
+
+---
 ### 🧠 SplitMind: Dual-Pane AI Research Environment
 
 > Flutter • Clean Architecture • BLoC • Node.js • LLM Proxy • SQLite Persistence • PDF Parsing
