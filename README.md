@@ -1,6 +1,7 @@
 <!-- ========================================================= -->
 <!--                  PREMIUM GITHUB PROFILE                   -->
 <!-- ========================================================= -->
+
 <div align="center">
 
 # Hi 👋 I'm Muhammad Faizan
@@ -200,9 +201,7 @@ Current Focus:
 
 > Database Systems • SQL • Backend Design
 
-
 ---
-
 
 
 # 📈 Contribution Graph
