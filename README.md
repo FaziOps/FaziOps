@@ -36,6 +36,7 @@ Current Focus:
   - AI Automation
   - Workflow Automation
   - Agentic AI
+  - Gen AI
   - Flutter Development
   - Backend Development
   - App Development
